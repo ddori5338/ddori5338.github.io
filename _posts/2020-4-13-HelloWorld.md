@@ -1,6 +1,6 @@
 ---
 title: HelloWorld
-layout: home
+layout: post
 permalink: /
 ---
 
