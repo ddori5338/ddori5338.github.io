@@ -1,8 +1,9 @@
 ---
-layout : post
-title : 첫번째 포스트
+title: /
+layout: home
+permalink: /
 ---
 
-여긴 어디인가
+# Lorem ipsum
 
-나는 누구인가
+hmm...
