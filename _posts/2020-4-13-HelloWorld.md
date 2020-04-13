@@ -1,7 +1,7 @@
 ---
 title: what
 layout: home
-permalink: /
+permalink: https://ddori5338.github.io/HelloWorld
 ---
 
 # Lorem ipsum
