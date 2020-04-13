@@ -1,7 +1,7 @@
 ---
 title: HelloWorld
-layout: home
-permalink: /
+layout: post
+permalink: https://ddori5338.github.io/helloworld
 ---
 
 # Hello World
