@@ -1,9 +1,9 @@
 ---
-title: what
-layout: home
+title: HelloWorld
+layout: post
 permalink: https://ddori5338.github.io/HelloWorld
 ---
 
-# Lorem ipsum
+# Hello World
 
 hmm...
