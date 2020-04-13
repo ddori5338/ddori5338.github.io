@@ -14,4 +14,4 @@ listen_for_clients_preferred_style: true # true or false (default)
 plugins:
   - jekyll-seo-tag
 
-title : ddori5338
+name : ddori5338
