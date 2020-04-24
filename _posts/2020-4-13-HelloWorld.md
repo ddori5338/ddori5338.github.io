@@ -1,7 +1,7 @@
 ---
 title: HelloWorld
 layout: post
-permalink: /
+permalink: helloworld
 ---
 
 # Hello World
